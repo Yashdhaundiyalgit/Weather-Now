@@ -4,16 +4,14 @@ Weather Now ☁️
 -> You can search for any city and view the current temperature, weather condition, and wind speed.
 
 Features
-  * Search weather by city name
-
+  Search weather by city name
+ 
   Displays:
-    * Temperature
+      Temperature
+      Weather condition (e.g., Clear, Rainy, Cloudy)
+      Wind speed
 
-    Weather condition (e.g., Clear, Rainy, Cloudy)
-
-    Wind speed
-
-Clean and simple UI
+  Clean and simple UI
 
 
 
